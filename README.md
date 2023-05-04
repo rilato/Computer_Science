@@ -39,6 +39,8 @@
   </tr>
 </table>
 
+<br/>
+<br/>
 
 <strong><h2>Languages</strong></h2>
 
