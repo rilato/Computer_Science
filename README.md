@@ -1,4 +1,4 @@
-#ComputerScience
+<h2><strong>ComputerScience</strong></h2>
 
 <table>
   <tr>
@@ -39,7 +39,8 @@
   </tr>
 </table>
 
-#Languages
+
+<strong><h2>Languages</strong></h2>
 
 <table>
   <tr>
