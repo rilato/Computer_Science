@@ -60,7 +60,7 @@
   </tr>
   <tr>
     <td style="text-align: center;"><strong>Introduction to Computer Science</strong></td>
-    <td style="text-align: center;"><strong>X</strong></td>
+    <td style="text-align: center;"><strong>Python</strong></td>
     <td style="text-align: center;"><strong>A0</strong></td>
   </tr>
 </table>
