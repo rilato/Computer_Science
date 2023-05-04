@@ -9,20 +9,20 @@
   </tr>
   <tr>
     <td style="text-align: center;"><strong>Algorithm</strong></td>
-    <td style="text-align: center;"><strong>X</strong></td>
-    <td style="text-align: center;"><strong>X</strong></td>
+    <td style="text-align: center;"><strong></strong></td>
+    <td style="text-align: center;"><strong></strong></td>
     <td style="text-align: center;"><strong>A+</strong></td>
   </tr>
   <tr>
     <td style="text-align: center;"><strong>ComputerArchitecture</strong></td>
     <td style="text-align: center;"><strong>Verilog</strong></td>
-    <td style="text-align: center;"><strong>X</strong></td>
+    <td style="text-align: center;"><strong></strong></td>
     <td style="text-align: center;"><strong></strong></td>
   </tr>
   <tr>
     <td style="text-align: center;"><strong>ComputerNetwork</strong></td>
-    <td style="text-align: center;"><strong>X</strong></td>
-    <td style="text-align: center;"><strong>X</strong></td>
+    <td style="text-align: center;"><strong></strong></td>
+    <td style="text-align: center;"><strong></strong></td>
     <td style="text-align: center;"><strong></strong></td>
   </tr>
   <tr>
@@ -32,9 +32,15 @@
     <td style="text-align: center;"><strong>A0</strong></td>
   </tr>
   <tr>
+    <td style="text-align: center;"><strong>DataStructure</strong></td>
+    <td style="text-align: center;"><strong>C</strong></td>
+    <td style="text-align: center;"><strong></strong></td>
+    <td style="text-align: center;"><strong>A+</strong></td>
+  </tr>
+  <tr>
     <td style="text-align: center;"><strong>OperatingSystem</strong></td>
-    <td style="text-align: center;"><strong>X</strong></td>
-    <td style="text-align: center;"><strong>X</strong></td>
+    <td style="text-align: center;"><strong></strong></td>
+    <td style="text-align: center;"><strong></strong></td>
     <td style="text-align: center;"><strong>A0</strong></td>
   </tr>
 </table>
