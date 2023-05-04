@@ -1,0 +1,32 @@
+# 5번 B735365 이윤식
+
+def main():
+    inputString = input("정수 리스트 입력: ")
+    list1 = list(inputString.split())       # 띄어쓰기 기준으로 글자를 나눈 후, 리스트 생성
+    for i in range(len(list1)):         # 리스트 내부의 값들을 int로 변환하는 작업
+        list1[i] = int(list1[i])
+
+    print("평균=", getMean(list1))
+    print("표준편차=", getDeviation(list1))
+
+    
+def getMean(list1):
+    plus = 0
+    count = 0
+    for i in list1:
+        plus += i
+        count += 1
+    average = plus / count
+    return average
+
+def getDeviation(list1):
+    plus2 = 0
+    count2 = 0
+    for i in list1:
+        a = (i - getMean(list1)) ** 2   # 편차의 제곱
+        plus2 += a
+        count2 += 1
+    var = plus2 / count2  # 분산 = 편차 제곱의 평균
+    return var ** 0.5   # 표준편차 = 분산의 루트 값
+
+main()  
