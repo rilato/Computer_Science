@@ -30,7 +30,7 @@
     <td style="text-align: center;"><strong>Java</strong></td>
     <td style="text-align: center;"><strong>PostgreSQL</strong></td>
     <td style="text-align: center;"><strong>A0</strong></td>
-  </tr></table>
+  </tr>
   <tr>
     <td style="text-align: center;"><strong>OperatingSystem</strong></td>
     <td style="text-align: center;"><strong>X</strong></td>
