@@ -57,11 +57,6 @@
     <th style="text-align: center;"><strong>Grade</strong></th>
   </tr>
   <tr>
-    <td style="text-align: center;"><strong>Programming Language</strong></td>
-    <td style="text-align: center;"><strong>Lisp, Lex, Yacc</strong></td>
-    <td style="text-align: center;"><strong>A0</strong></td>
-  </tr>
-  <tr>
     <td style="text-align: center;"><strong>Business Programming</strong></td>
     <td style="text-align: center;"><strong>Python</strong></td>
     <td style="text-align: center;"><strong></strong>A+</td>
@@ -70,5 +65,40 @@
     <td style="text-align: center;"><strong>Introduction to Computer Science</strong></td>
     <td style="text-align: center;"><strong>Python</strong></td>
     <td style="text-align: center;"><strong>A0</strong></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><strong>C Programming</strong></td>
+    <td style="text-align: center;"><strong>C</strong></td>
+    <td style="text-align: center;"><strong>A0</strong></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><strong>Object Oriented Programming</strong></td>
+    <td style="text-align: center;"><strong>C++</strong></td>
+    <td style="text-align: center;"><strong>B+</strong></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><strong>Programming Language</strong></td>
+    <td style="text-align: center;"><strong>Lisp, Lex, Yacc</strong></td>
+    <td style="text-align: center;"><strong>A0</strong></td>
+  </tr>
+</table>
+
+<br/>
+<br/>
+
+<strong><h2>ETC</strong></h2>
+
+<table>
+  <tr>
+    <th style="text-align: center;"><strong>Subject</strong></th>
+    <th style="text-align: center;"><strong>Grade</strong></th>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><strong>Computer Application Basics</strong></td>
+    <td style="text-align: center;"><strong>A+</strong></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><strong>Logic Circuits and Lab</strong></td>
+    <td style="text-align: center;"><strong></strong>A+</td>
   </tr>
 </table>
