@@ -1,4 +1,4 @@
-<h2><strong>ComputerScience</strong></h2>
+<h2><strong>Computer Science</strong></h2>
 
 <table>
   <tr>
@@ -103,6 +103,10 @@
   </tr>
   <tr>
     <td style="text-align: center;"><strong>Logic Circuits and Lab</strong></td>
+    <td style="text-align: center;"><strong></strong>A+</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><strong>Project 1</strong></td>
     <td style="text-align: center;"><strong></strong>A+</td>
   </tr>
 </table>
