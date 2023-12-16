@@ -111,6 +111,6 @@
   </tr>
   <tr>
   <td style="text-align: center;"><strong>Project 2</strong></td>
-  <td style="text-align: center;"><strong></strong></td>
+  <td style="text-align: center;"><strong></strong>A+</td>
 </tr>
 </table>
