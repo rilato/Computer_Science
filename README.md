@@ -1,3 +1,9 @@
+<h2><strong>Grade</strong></h2>
+4.12/4.50
+
+<br/>
+<br/>
+
 <h2><strong>Computer Science</strong></h2>
 
 <table>
